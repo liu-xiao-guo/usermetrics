@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=usermetrics
+Exec=qmlscene $@ Main.qml
+Icon=usermetrics.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
